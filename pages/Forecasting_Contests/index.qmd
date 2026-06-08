@@ -20,14 +20,25 @@ A core part of the SPHERE-PPL project is to run novel and engaging forecasting c
 
 ## Contest Partners
 
-![](images/image.jpeg){width="66"}       
+:::{style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"}
+:::{style="text-align: center;"}
+[![](images/image.jpeg){width="66"}](https://vbdhub.org/)
+
 [VBD Hub](https://vbdhub.org/)
+:::
 
-![](images/nhs.png){width="200"}       
+:::{style="text-align: center;"}
+[![](images/nhs.png){width="200"}](https://bnssg.icb.nhs.uk/)
+
 [NHS Bristol](https://bnssg.icb.nhs.uk/)
+:::
 
-![](pages/images/adas.png){width="95"}       
+:::{style="text-align: center;"}
+[![](images/adas.png){width="95"}](https://adas.co.uk/)
+
 [ADAS](https://adas.co.uk/)
+:::
+:::
 
 ## Quick-start Guide
 
