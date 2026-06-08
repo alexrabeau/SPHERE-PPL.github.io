@@ -13,7 +13,8 @@ A core part of the SPHERE-PPL project is to run novel and engaging forecasting c
 
 | Contest | Kick-Off Meeting | Submission Date | Status |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| [NHS Acute Patient Harm](https://github.com/SPHERE-PPL/NHS-EAD-forecast) | [Webinar Recording](https://www.youtube.com/watch?v=vUZq-I8XiG8) & [Slides](NHS-EAD-Forecast-kickoff.pptx) | Friday 5th June 2026 | Open |
+| [ADAS Wheat Disease Forecasting](https://github.com/SPHERE-PPL/ADAS-pest-forecasting) | [Slides](ADAS-Pest-Forecast-kickoff.pptx) | Sunday 6th September 2026 | Open |
+| [NHS Acute Patient Harm](https://github.com/SPHERE-PPL/NHS-EAD-forecast) | [Webinar Recording](https://www.youtube.com/watch?v=vUZq-I8XiG8) & [Slides](NHS-EAD-Forecast-kickoff.pptx) | Friday 5th June 2026 | Closed |
 | [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | [Webinar Recording](https://drive.google.com/file/d/1cAxYpgOa-HntQI5pp5j08cTpG5ZKr5TX/view?usp=sharing) & [Slides](Kick-Off.pdf) | Friday 27th June 2025 | Closed |
 | [Mpox Global Forecasting](https://github.com/SPHERE-PPL/Competition-Example-Mpox) | NA | NA | Example |
 
@@ -24,6 +25,9 @@ A core part of the SPHERE-PPL project is to run novel and engaging forecasting c
 
 ![](images/nhs.png){width="200"}       
 [NHS Bristol](https://bnssg.icb.nhs.uk/)
+
+![](pages/images/adas.png){width="95"}       
+[ADAS](https://adas.co.uk/)
 
 ## Quick-start Guide
 
